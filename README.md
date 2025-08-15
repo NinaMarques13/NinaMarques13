@@ -1,5 +1,11 @@
-## Hi there 👋
+## Nicolas Marques
 
+##Contato
+Telefone: +55 41-998026726
+Email: Nicolaspaiva2001@gmail.com
+
+##Formação
+Engenharia de Software - 2023 - O momento
 <!--
 **NinaMarques13/NinaMarques13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
